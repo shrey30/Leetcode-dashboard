@@ -12,7 +12,7 @@ A responsive React application to track your favorite Leetcode problems, their d
 
 ✅ Status Indicators – Solved problems marked with a check icon.
 
-🧱 Tech Stack <br/>
+🧱 Tech Stack -  <br/>
 ⚛️ React
 
 🎨 TailwindCSS
