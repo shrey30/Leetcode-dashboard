@@ -1,12 +1,20 @@
-# React + Vite
+![image](https://github.com/user-attachments/assets/d18521cc-1816-4f0c-97cc-07a4eeb6f5ac)
+A responsive React application to track your favorite Leetcode problems, their difficulty levels, and your progress. Includes clean UI, mobile responsiveness, and visual indicators for solved problems.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+📂 Sidebar Navigation – Displays your problem lists.
 
-Currently, two official plugins are available:
+🌟 Favorite List Card – Track solved problems with breakdown by difficulty.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📊 Progress Display – View total and categorized completion.
 
-## Expanding the ESLint configuration
+📱 Responsive Layout – Mobile-friendly interface that adapts to screen sizes.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Status Indicators – Solved problems marked with a check icon.
+
+🧱 Tech Stack
+⚛️ React
+
+🎨 TailwindCSS
+
+🖼️ Icons via react-icons
