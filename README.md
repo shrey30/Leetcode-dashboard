@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/d18521cc-1816-4f0c-97cc-07a4eeb6f5ac) <br />
-https://leetcode-dashboard-pi.vercel.app/ <br />
+https://leetcode-dashboard-rose.vercel.app/<br />
 A responsive React application to track your favorite Leetcode problems, their difficulty levels, and your progress. Includes clean UI, mobile responsiveness, and visual indicators for solved problems.
 
 ✨ Features
